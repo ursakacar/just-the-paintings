@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% assign num = page.photos.size %}
+
+<h1>{{ page.title }}</h1>
+<h2>{{ page.description }}</h2>
+<ul>
+  {% for i in (1..num) %}
+  <li>
+    <img src="{{ site.baseurl }}/images/photos/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+    <h3>{{ i }}</h3>
+    <section>
+      {{ content }}
+    </section>
+  </li>
+  {% endfor %}
+</ul>
+<div>
+  <a href="{{ site.baseurl }}/photos/">Poglej vse mape slik</a>
+</div>
