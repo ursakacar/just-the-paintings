@@ -10,23 +10,15 @@ photos:
 
 ---
 
-![1.](/images/photos/roze-1.jpg)
-
-![2](/images/photos/roze-2.jpg)
-
 ![3](/images/photos/roze-3.jpg)
-
-![4](/images/photos/roze-4.jpg)
-
-![5](/images/photos/roze-5.jpg)
-
-![6](/images/photos/roze-6.jpg)
 
 ![7](/images/photos/roze-7.jpg)
 
 ![8](/images/photos/roze-8.jpg)
 
 ![9](/images/photos/roze-9.jpg)
+
+9: Rdece vrtnice, 45x60cm, olje na platno, prodano, 2019
 
 ![10](/images/photos/roze-10.jpg)
 
@@ -38,11 +30,7 @@ photos:
 
 ![12](/images/photos/roze-12.jpg)
 
-![13](/images/photos/roze-13.jpg)
-
 ![14](/images/photos/roze-14.jpg)
-
-![15](/images/photos/roze-15.jpg)
 
 ![16](/images/photos/roze-16.jpg)
 
@@ -56,7 +44,7 @@ photos:
 
 ![19](/images/photos/roze-19.jpg)
 
-19: soncnice
+19: soncnice v modri vazi, 2004, olje na platno, 50x40, prodano
 
 ![20](/images/photos/roze-20.jpg)
 

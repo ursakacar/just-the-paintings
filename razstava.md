@@ -9,7 +9,7 @@ photos:
     size: 5
 ---
 
-Leto? kraj?
+2014, Sokolski dom skofja loka, razstava: Kamnito mesto
 
 ![1.](/images/photos/razstava-1.jpg)
 
