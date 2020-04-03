@@ -10,6 +10,34 @@ photos:
 
 ---
 
+![23.](/images/photos/oljeplatno-23.jpg)
+
+23: snezi 55x80, prodano
+
+![24.](/images/photos/oljeplatno-24.jpg)
+
+24: preden oljke zaspijo 55x80, prodano
+
+![25.](/images/photos/oljeplatno-25.jpg)
+
+25: drvar 50x65, prodano
+
+![26.](/images/photos/oljeplatno-26.jpg)
+
+26: model 100x80, naprodaj
+
+![27.](/images/photos/oljeplatno-27.jpg)
+
+27: kruh 100x100, prodano
+
+![28.](/images/photos/oljeplatno-28.jpg)
+
+28: jesenski motiv 100x75, prodano
+
+![29.](/images/photos/oljeplatno-29.jpg)
+
+29: jesenski vecer 50x70, prodano
+
 ![1.](/images/photos/oljeplatno-1.jpg)
 
 1: deklica z vzigalicami, 70x60, olje platno, domaca last, ni naprodaj
@@ -21,6 +49,10 @@ photos:
 ![3](/images/photos/oljeplatno-3.jpg)
 
 3: vinograd, 65x50, prodano
+
+![4.](/images/photos/oljeplatno-4.jpg)
+
+4: strazar polj 100x100 olje platno, prodano
 
 ![5](/images/photos/oljeplatno-5.jpg)
 
